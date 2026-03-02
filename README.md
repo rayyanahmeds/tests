@@ -1,2 +1,2 @@
 # tests
-none
+print("hello world
